@@ -4,4 +4,4 @@ spring:
       uri: mongodb+srv://Team03PDP:46IfTCwXGWJU9szW@cluster0.f89yz6n.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp
       database: PDP
 server:
-  port: 8082
+  port: 8080
